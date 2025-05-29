@@ -1,0 +1,16 @@
+baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "Black Desert Dog"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "light"
+showReadingTime = true
+showToc = false
+showBreadCrumbs = false
+showCodeCopyButtons = true
+
+
+[params.homeInfoParams]
+# Leave this section out to skip homepage message entirely
+
