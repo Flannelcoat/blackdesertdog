@@ -9,7 +9,7 @@ showReadingTime = true
 showToc = false
 showBreadCrumbs = false
 showCodeCopyButtons = true
-
+favicon = "favicon.ico"
 
 [params.homeInfoParams]
 # Leave this section out to skip homepage message entirely
