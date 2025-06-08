@@ -36,7 +36,7 @@ draft: false
 
 - Chicano by Richard Vasquez
 
-- Industrial Society and it's Future by Theadore Kaczynski
+- Industrial Society and it's Future by Theodore Kaczynski
 
 - This is How They Tell Me the World Ends: The Cyberweapons Arms Race by Nicole Perioth
 
