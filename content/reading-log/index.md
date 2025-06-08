@@ -1,6 +1,6 @@
 ---
 title: "Reading Log"
-date: 2025-06-07T00:00:00Z
+ShowDate: false
 draft: false
 ---
 
