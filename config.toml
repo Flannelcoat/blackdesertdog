@@ -4,12 +4,18 @@ title = "Black Desert Dog"
 theme = "PaperMod"
 
 [params]
-defaultTheme = "light"
-showReadingTime = true
-showToc = false
-showBreadCrumbs = false
-showCodeCopyButtons = true
-favicon = "favicon.ico"
+  defaultTheme = "light"
+  showReadingTime = true
+  showToc = false
+  showBreadCrumbs = false
+  showCodeCopyButtons = true
+  favicon = "favicon.ico"
+
+[[menu.main]]
+  identifier = "reading-log"
+  name = "Reading Log"
+  url = "/reading-log/"
+  weight = 10
 
 [params.homeInfoParams]
 # Leave this section out to skip homepage message entirely
