@@ -4,7 +4,7 @@ title = "Black Desert Dog"
 theme = "PaperMod"
 
 [params]
-  defaultTheme = "light"
+  defaultTheme = "dark"
   showReadingTime = false
   showToc = false
   showBreadCrumbs = false
