@@ -30,7 +30,7 @@ draft: false
 
 - My First Summer in the Sierra
 
-- An indigenous Peoples' History of the United States by Roxanne Dunbar-Ortiz
+- An Indigenous Peoples' History of the United States by Roxanne Dunbar-Ortiz
 
 - The Fourth Turning by William Strauss & Neil Howe
 
