@@ -1,8 +1,8 @@
 ---
 title: "Oregonian Husk"
-date: 2025-06-07
+date: 2025-06-07T00:00:00
 draft: false
-images: ["oregonian_husk_02.jpg"]
+images: ["/oregonian_husk_02.jpg"]
 ---
 
 ![Oregonian Husk](/oregonian_husk_02.jpg)
