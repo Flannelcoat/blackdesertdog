@@ -28,7 +28,7 @@ draft: false
 
 - Exciting Times by Naoise Dolan
 
-- My First Summer in the Sierra
+- My First Summer in the Sierra by John Muir
 
 - An Indigenous Peoples' History of the United States by Roxanne Dunbar-Ortiz
 
